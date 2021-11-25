@@ -19,3 +19,4 @@ python main.py
 ```Python
 python generate.py 
 ```
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/62350977/143507964-dee04c63-9a06-4564-8029-e18809c489dd.png">
